@@ -1,5 +1,7 @@
 package com.banquito.originacion.controller.mapper;
 
+import com.banquito.originacion.controller.dto.SolicitudCreditoDTO;
+import com.banquito.originacion.enums.EstadoSolicitudEnum;
 import com.banquito.originacion.model.SolicitudCredito;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

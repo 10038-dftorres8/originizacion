@@ -1,5 +1,6 @@
 package com.banquito.originacion.controller.mapper;
 
+import com.banquito.originacion.controller.dto.DocumentoAdjuntoDTO;
 import com.banquito.originacion.model.DocumentoAdjunto;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;

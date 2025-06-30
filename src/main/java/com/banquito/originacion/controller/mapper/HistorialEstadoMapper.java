@@ -1,5 +1,6 @@
 package com.banquito.originacion.controller.mapper;
 
+import com.banquito.originacion.controller.dto.HistorialEstadoDTO;
 import com.banquito.originacion.model.HistorialEstado;
 import org.mapstruct.Mapper;
 import org.mapstruct.Mapping;
